@@ -49,7 +49,7 @@ export default function NavBarEdunova() {
                   O Stranici
                 </NavDropdown.Item>
                 <NavDropdown.Item
-                  onClick={() => window.open("https://swagger.io")}
+                  onClick={() => window.open("https://karlobedu-001-site1.jtempurl.com/swagger/index.html")}
                   target="_blank"
                 >
                   Swagger
