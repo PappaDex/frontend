@@ -11,5 +11,5 @@ export const RouteNames = {
     ZANR_IGRE: "/zanrovi/:id/igre"
 };
 
-export const BACKEND_PRODUKCIJA = "https://blusch-001-site1.qtempurl.com/api/v1";
+export const BACKEND_PRODUKCIJA = "https://karlobedu-001-site1.jtempurl.com/api/v1";
 export const BACKEND_LOKALNO = "http://localhost:5112/api/v1";
